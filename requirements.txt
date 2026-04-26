@@ -1,12 +1,5 @@
-streamlit==1.44.0
-langgraph==0.3.0
-langchain-groq==0.2.0
-langchain-google-genai==2.0.0
-pydantic==2.10.0
-loguru==0.7.2
-tenacity==9.0.0
-plotly==5.24.0
-fpdf2==2.8.1
+streamlit==1.32.0
+requests==2.31.0
 python-dotenv==1.0.1
-ruff
-black
+plotly==5.18.0
+pandas==2.2.0
